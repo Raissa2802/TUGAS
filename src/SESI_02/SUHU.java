@@ -1,4 +1,4 @@
-package SESI_2;
+package SESI_02;
 import java.util.Scanner;
 
 public class SUHU {

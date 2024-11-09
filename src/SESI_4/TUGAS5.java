@@ -1,3 +1,4 @@
+package SESI_4;
 public class TUGAS5 {
     public static void main(String[] args) {
         int a = 0;

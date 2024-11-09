@@ -1,7 +1,7 @@
-package SESI_2;
+package SESI_02;
 import java.util.Scanner;
 
-public class LINGKARAN1 {
+public class LINGKARAN {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

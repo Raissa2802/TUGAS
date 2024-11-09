@@ -1,4 +1,4 @@
-package SESI_1;
+package SESI_3;
 import java.util.Scanner;
 
 public class PECAHAN {
